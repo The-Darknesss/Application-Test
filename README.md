@@ -1,4 +1,4 @@
-# Projeto 1 (Application-Test)
+# Application Test
 
 Este é o repositório do **projeto1**, uma aplicação desenvolvida com **Java** e **Spring Boot**.
 
